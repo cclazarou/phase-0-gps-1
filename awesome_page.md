@@ -6,3 +6,4 @@
 git add .
 '''
 [Coder's best friend](http://www.google.com)
+![alt text](ss_pairing.jpg)
