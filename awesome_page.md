@@ -5,5 +5,5 @@
   ```
   git add .
   ```
-  [Coder's best friend](http://www.google.com)
+  [Coder's Worst friend](http://www.google.com)
   ![alt text](ss_pairing.jpg)
